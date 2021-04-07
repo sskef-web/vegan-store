@@ -1,2 +1,0 @@
-# vegan-store
-
